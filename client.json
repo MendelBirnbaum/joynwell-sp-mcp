@@ -1,0 +1,9 @@
+{
+  "client_id": "https://mendelbirnbaum.github.io/joynwell-sp-mcp/client.json",
+  "client_name": "JoYnWell Rakazo",
+  "client_uri": "https://mendelbirnbaum.github.io/joynwell-sp-mcp/",
+  "redirect_uris": ["https://ge76rdr.taild41207.ts.net:8443/mcp/oauth/callback"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none"
+}
